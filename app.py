@@ -21,7 +21,7 @@ def home():
         <div class="card">
             <span class="badge">Status: Live & Automated</span>
             <h1>Local AutoDeploy Web App</h1>
-            <p><strong>App Version:</strong> v3.0.0</p>
+            <p><strong>App Version:</strong> v4.0.0</p>
             <p>Built by GitHub Actions & Auto-Updated locally</p>
         </div>
     </body>
